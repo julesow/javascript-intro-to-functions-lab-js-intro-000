@@ -6,6 +6,6 @@ function shout(string){
 
 function whisper(string){
   
-  return whisper.toUpperCase()
+  return whisper.toLowerCase()
   
 }
